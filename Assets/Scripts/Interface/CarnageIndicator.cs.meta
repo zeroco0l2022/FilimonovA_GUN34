@@ -1,3 +1,17 @@
-﻿fileFormatVersion: 2
+fileFormatVersion: 2
 guid: 6930ba43920b41cea64622273a54e788
-timeCreated: 1676756689
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _sum: {instanceID: 0}
+  - _currentPointsText: {instanceID: 0}
+  - _message: {instanceID: 0}
+  - _indicatorFill: {instanceID: 0}
+  - _tickerSum: {instanceID: 0}
+  - _settings: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
